@@ -32,6 +32,10 @@ public class GameControl : MonoBehaviour
         }
         
     }
+
+
+
+
     public void BirdDied()
     {
         gameOverText.SetActive(true);
